@@ -8,7 +8,7 @@ This repository serves as a directory of the technologies I use and the resource
 ## 🌐 Web & Backend (Learning Roadmap 2026)
 I am currently expanding my skills into full-stack development with a focus on:
 
-**ASP.NET Core** – Learning to build robust APIs and understanding the .NET backend ecosystem.
+* **ASP.NET Core** – Learning to build robust APIs and understanding the .NET backend ecosystem.
 * **SQL Databases** – Mastering relational data modeling and querying (PostgreSQL/MS SQL).
 * **Full-stack Fundamentals** – Exploring **Node.js** and **React** to bridge the gap between frontend and backend.
 
