@@ -2,7 +2,7 @@
 This repository serves as a directory of the technologies I use and the resources I learn from.
 
 ## 🖥 Desktop Development
-* [Avalonia UI]([https://github.com/AvaloniaUI/Avalonia](https://avaloniaui.net/)) - A great open-source framework for cross-platform applications.
+* [Avalonia UI](https://avaloniaui.net/) - A great open-source framework for cross-platform applications.
 * [MAUI](https://dotnet.microsoft.com/en-us/apps/maui) - Official multi-platform app UI for native mobile and desktop apps.
 
 ## 🌐 Web & Backend (Learning Roadmap 2026)
