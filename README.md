@@ -1,4 +1,4 @@
-# Awesome C# & .NET Resources
+# My Awesome Tech Stack & Learning Resources
 This repository serves as a directory of the technologies I use and the resources I learn from.
 
 ## 📋 Table of Contents
