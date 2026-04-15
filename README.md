@@ -8,8 +8,8 @@ This repository serves as a directory of the technologies I use and the resource
 - [Learning Resources](#learning-resources)
 
 ## 🖥 Desktop Development
-* [Avalonia UI](https://avaloniaui.net/) - A great open-source framework for cross-platform applications.
 * [MAUI](https://dotnet.microsoft.com/en-us/apps/maui) - Official multi-platform app UI for native mobile and desktop apps.
+* [Avalonia UI](https://avaloniaui.net/) - A great open-source framework for cross-platform applications.
 
 ## 🛠 Tools & Environment
 My daily driver setup for development:
