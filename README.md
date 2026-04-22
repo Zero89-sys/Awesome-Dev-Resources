@@ -24,6 +24,7 @@ I am currently expanding my skills into full-stack development with a focus on:
 * **ASP.NET Core** – Learning to build robust APIs and understanding the .NET backend ecosystem.
 * **SQL Databases** – Mastering relational data modeling and querying (PostgreSQL/MS SQL).
 * **Full-stack Fundamentals** – Exploring **Node.js** and **React** to bridge the gap between frontend and backend.
+* **C++** - Master the basics of C++ and implement key algorithms to deepen your knowledge of low-level programming.
 
 ## 📚 Resources I recommend
 * [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/) - My main source for official documentation.
