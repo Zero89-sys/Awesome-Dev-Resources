@@ -21,6 +21,7 @@ My daily driver setup for development:
 ## 🌐 Web & Backend (Learning Roadmap 2026)
 I am currently expanding my skills into full-stack development with a focus on:
 
+* Multi-platform Development – Create functional applications for iOS, Android, and Desktop with MAUI or Avalonia.
 * **ASP.NET Core** – Learning to build robust APIs and understanding the .NET backend ecosystem.
 * **SQL Databases** – Mastering relational data modeling and querying (PostgreSQL/MS SQL).
 * **Full-stack Fundamentals** – Exploring **Node.js** and **React** to bridge the gap between frontend and backend.
