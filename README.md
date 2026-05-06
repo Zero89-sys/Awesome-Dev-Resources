@@ -1,5 +1,5 @@
 # My Awesome Tech Stack & Learning Resources
-This repository serves as a directory of the technologies I use and the resources I learn from.
+A curated list of the technologies I use, the resources I learn from, and my current focus areas.
 
 ## 📋 Table of Contents
 - [Desktop Development](#desktop-development)
