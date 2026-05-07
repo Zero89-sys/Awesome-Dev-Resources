@@ -7,6 +7,10 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 - [Web & Backend](#web--backend)
 - [Learning Resources](#learning-resources)
 
+## 📔 Projects
+* **[Yomu](https://github.com/Zero89-sys/Yomu-Japanese-Translator)** - Minimalist Japanese to English translator built with **.NET MAUI.**
+* **[XML-TSV-Converter](https://github.com/Zero89-sys/XML-TSV-Converter)** - A lightweight C# console application with XML and TSV to DB3 conversion
+
 ## 🖥 Desktop Development
 * [MAUI](https://dotnet.microsoft.com/en-us/apps/maui) - Official multi-platform app UI for native mobile and desktop apps.
 * [Avalonia UI](https://avaloniaui.net/) - A great open-source framework for cross-platform applications.
