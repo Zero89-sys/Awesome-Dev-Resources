@@ -2,6 +2,7 @@
 A curated list of the technologies I use, the resources I learn from, and my current focus areas.
 
 ## 📋 Table of Contents
+- [Projects](#projects)
 - [Desktop Development](#desktop-development)
 - [Tools & Environment](#tools--environment)
 - [Web & Backend](#web--backend)
