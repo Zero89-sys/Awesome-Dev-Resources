@@ -2,11 +2,11 @@
 A curated list of the technologies I use, the resources I learn from, and my current focus areas.
 
 ## 📋 Table of Contents
-- [Projects](#projects)
-- [Desktop Development](#desktop-development)
-- [Tools & Environment](#tools--environment)
-- [Web & Backend](#web--backend)
-- [Learning Resources](#learning-resources)
+- 📔[Projects](#projects)
+- 🖥[Desktop Development](#desktop-development)
+- 🛠[Tools & Environment](#tools--environment)
+- 🌐[Web & Backend](#web--backend)
+- 📚[Learning Resources](#learning-resources)
 
 ## 📔 Projects
 * **[Yomu](https://github.com/Zero89-sys/Yomu-Japanese-Translator)** - Minimalist Japanese to English translator built with **.NET MAUI.**
