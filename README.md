@@ -4,7 +4,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 ## 📋 Table of Contents
 - 📔[Projects](#projects)
 - 🖥[Desktop Development](#desktop-development)
-- 🛠[Tools & Environment](#tools---environment)
+- 🛠[Tools & Environment](#tools--environment)
 - 🌐[Web & Backend](#web--backend)
 - 📚[Learning Resources](#learning-resources)
 
