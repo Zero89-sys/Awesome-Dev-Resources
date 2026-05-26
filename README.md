@@ -6,7 +6,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 - 🖥[Desktop Development](#desktop-development)
 - 🛠[Tools & Environment](#tools--environment)
 - 🌐[Web & Backend](#web--backend)
-- 📚[Learning Resources](#learning-resources)
+- 📚[Learning Resources](#learning-I-resources)
 
 ## 📔 Projects
 * **[Yomu](https://github.com/Zero89-sys/Yomu-Japanese-Translator)** - Minimalist Japanese to English translator built with **.NET MAUI.**
