@@ -17,7 +17,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 * [MAUI](https://dotnet.microsoft.com/en-us/apps/maui) - Official multi-platform app UI for native mobile and desktop apps.
 * [Avalonia UI](https://avaloniaui.net/) - A great open-source framework for cross-platform applications.
 
-## 🛠 Tools & Environment
+## 🛠 <a id="tools-env"></a>Tools & Environment
 My daily driver setup for development:
 * **[Visual Studio 2026](https://visualstudio.microsoft.com/)** – Primary IDE for C# and MAUI development.
 * **[VS Code](https://code.visualstudio.com/)** – Lightweight editor for HTML, CSS, and JavaScript.
