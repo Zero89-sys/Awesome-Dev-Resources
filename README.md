@@ -3,7 +3,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 
 ## 📋 Table of Contents
 - 📔[Projects](#projects)
-- 🖥[Desktop Development](#desktop-development)
+- 🖥[Desktop Development](#desktop)
 - 🛠[Tools & Environment](#tools-env)
 - 🌐[Web & Backend](#web--backend)
 - 📚[Learning Resources](#learning-resources)
@@ -13,7 +13,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 * **[XML-TSV-Converter](https://github.com/Zero89-sys/XML-TSV-Converter)** - A lightweight C# console application with XML and TSV to DB3 conversion
 * **[Go-board-game](https://github.com/Zero89-sys/Go-BoardGame)** - Desktop implementation of the board game Go
 
-## 🖥 Desktop Development
+## 🖥 <a id="desktop">Desktop Development
 * [MAUI](https://dotnet.microsoft.com/en-us/apps/maui) - Official multi-platform app UI for native mobile and desktop apps.
 * [Avalonia UI](https://avaloniaui.net/) - A great open-source framework for cross-platform applications.
 
