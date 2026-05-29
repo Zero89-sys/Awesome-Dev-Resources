@@ -5,7 +5,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 - 📔[Projects](#projects)
 - 🖥[Desktop Development](#desktop)
 - 🛠[Tools & Environment](#tools-env)
-- 🌐[Web & Backend](#web--backend)
+- 🌐[Web & Backend](#web-backend)
 - 📚[Learning Resources](#learning-resources)
 
 ## 📔 <a id="projects"></a>Projects
@@ -24,7 +24,7 @@ My daily driver setup for development:
 * **[XAMPP](https://www.apachefriends.org/)** – Local Apache distribution for running PHP.
 * **[NuGet Package Manager](https://www.nuget.org/)** – Used for managing C# libraries (e.g., CommunityToolkit for MAUI).
 
-## 🌐 Web & Backend (Learning Roadmap 2026)
+## 🌐 <a id="web-backend">Web & Backend (Learning Roadmap 2026)
 I am currently expanding my skills into full-stack development with a focus on:
 
 * **Multi-platform Development** – Create functional applications for iOS, Android, and Desktop with MAUI or Avalonia.
