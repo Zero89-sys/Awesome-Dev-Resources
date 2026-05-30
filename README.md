@@ -33,7 +33,7 @@ I am currently expanding my skills into full-stack development with a focus on:
 * **Full-stack Fundamentals** – Exploring **Node.js** and **React** to bridge the gap between frontend and backend.
 * **C++** - Master the basics of C++ and implement key algorithms to deepen your knowledge of low-level programming.
 
-## 📚 Learning Resources
+## 📚 <a id="learning-resources">Learning Resources
 * [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/) - My main source for official documentation.
 * [Stack Overflow](https://stackoverflow.com/) - A first stop for troubleshooting bugs.
 * [W3Schools](https://www.w3schools.com/) - W3Schools is a comprehensive web developer site featuring free tutorials, interactive coding exercises, and reference materials covering major web technologies like HTML, CSS, JavaScript, and Python.
