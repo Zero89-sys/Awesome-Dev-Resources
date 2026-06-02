@@ -38,5 +38,5 @@ I am currently expanding my skills into full-stack development with a focus on:
 * [Stack Overflow](https://stackoverflow.com/) - A first stop for troubleshooting bugs.
 * [W3Schools](https://www.w3schools.com/) - W3Schools is a comprehensive web developer site featuring free tutorials, interactive coding exercises, and reference materials covering major web technologies like HTML, CSS, JavaScript, and Python.
 * [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentation for HTML, CSS and JavaScript
-* [Bro Code (YouTube)](https://www.youtube.com/@BroCodez) - Great courses not only for C#, but also for C++, Java, and Python. Perfect for beginners learning a new language
-* [freeCodeCamp.org (YouTube)](https://www.youtube.com/@freecodecamp/videos) - A comprehensive resource for full-length programming courses and tutorials.
+* [BroCode (YouTube)](https://www.youtube.com/@BroCodez) - Great courses not only for C#, but also for C++, Java, and Python. Perfect for beginners learning a new language
+* [FreeCodeCamp.org (YouTube)](https://www.youtube.com/@freecodecamp/videos) - A comprehensive resource for full-length programming courses and tutorials.
