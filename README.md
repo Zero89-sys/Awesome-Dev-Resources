@@ -11,7 +11,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 ## 📔 <a id="projects"></a>Projects
 * **[Yomu](https://github.com/Zero89-sys/Yomu-Japanese-Translator)** - Minimalist Japanese to English translator built with **.NET MAUI.**
 * **[XML-TSV-Converter](https://github.com/Zero89-sys/XML-TSV-Converter)** - A lightweight C# console application with XML and TSV to DB3 conversion
-* **[Go-board-game](https://github.com/Zero89-sys/Go-BoardGame)** - Desktop implementation of the board game Go with **Avalonia**
+* **[Go-board-game](https://github.com/Zero89-sys/Go-BoardGame)** - Desktop implementation of the board game Go with **Avalonia UI**
 
 ## 🖥 <a id="desktop">Desktop Development
 * [MAUI](https://dotnet.microsoft.com/en-us/apps/maui) - Official multi-platform app UI for native mobile and desktop apps.
