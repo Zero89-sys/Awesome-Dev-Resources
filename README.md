@@ -20,7 +20,7 @@ A curated list of the technologies I use, the resources I learn from, and my cur
 ## 🛠 <a id="tools-env"></a>Tools & Environment
 My daily driver setup for development:
 * **[Visual Studio 2026](https://visualstudio.microsoft.com/)** – Primary IDE for C# and MAUI development.
-* **[VS Code](https://code.visualstudio.com/)** – Lightweight editor for HTML, CSS, and JavaScript.
+* **[VS Code](https://code.visualstudio.com/)** – Lightweight editor for HTML, CSS, JavaScript, etc.
 * **[XAMPP](https://www.apachefriends.org/)** – Local Apache distribution for running PHP.
 * **[NuGet Package Manager](https://www.nuget.org/)** – Used for managing C# libraries (e.g., CommunityToolkit for MAUI).
 
