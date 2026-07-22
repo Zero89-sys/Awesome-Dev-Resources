@@ -29,7 +29,7 @@ I am currently expanding my skills into full-stack development with a focus on:
 
 * **Multi-platform Development** – Create functional applications for iOS, Android, and Desktop with MAUI or Avalonia.
 * **ASP.NET Core** – Learning to build robust APIs and understanding the .NET backend ecosystem.
-* **SQL Databases** – Mastering relational data modeling and querying (PostgreSQL/MS SQL).
+* **SQL Databases** – Mastering relational data modeling and querying (PostgreSQL/MySQL).
 * **Full-stack Fundamentals** – Exploring **Node.js** and **React** to bridge the gap between frontend and backend.
 * **TypeScript** - Master the basics of TypeScript and implement key algorithms for a deeper understanding of static type checking and JavaScript's background behavior.
 
